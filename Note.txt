@@ -1,0 +1,4 @@
+1. 运行Java： javac MyDemo1.java
+	     java  MyDemo1
+2. 当引用其他包，必须设置引用路径：java -cp /home/samueldeng/PycharmProjects/lib/*:. MyDemo1
+
